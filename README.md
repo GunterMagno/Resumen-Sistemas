@@ -1,7 +1,4 @@
 # Resumen-Sistemas
-¡Perfecto! Ahora que tengo todos los archivos, incluyendo el último sobre **Gestión de Procesos**, procederé a actualizar el resumen completo y la "chuleta" con los comandos y conceptos más importantes para que puedas estudiar de manera eficiente para tu examen.
-
----
 
 ### **Resumen Completo de Comandos y Conceptos de Linux**
 
@@ -190,8 +187,3 @@
   - **Foreground**: Procesos que se ejecutan en primer plano.
   - **Background**: Procesos que se ejecutan en segundo plano.
   - **Señales**: Comandos como `kill` envían señales a procesos (ej: `SIGKILL`, `SIGTERM`).
-
----
-
-Este resumen y la chuleta deberían ayudarte a repasar los comandos y conceptos clave de Linux de manera rápida y efectiva. ¡Buena suerte en tu examen! 😊
-
