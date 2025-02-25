@@ -159,6 +159,15 @@
 | `time`      | Mide tiempo de ejecución | `time sleep 5` |
 | `nice`      | Cambia prioridad de proceso | `nice -n 10 comando` |
 | `renice`    | Cambia prioridad de proceso en ejecución | `renice 10 -p PID` |
+| `adduser`  | Crea un nuevo usuario con su directorio home | `adduser juan`             |
+| `useradd`  | Crea un nuevo usuario sin directorio home    | `useradd -M pedro`         |
+| `deluser`  | Elimina un usuario y su directorio home      | `deluser juan --remove-home` |
+| `userdel`  | Elimina un usuario (sin eliminar su home)    | `userdel pedro`            |
+| `groupadd` | Crea un nuevo grupo                          | `groupadd desarrolladores` |
+| `groupdel` | Elimina un grupo                             | `groupdel desarrolladores` |
+| `usermod`  | Modifica un usuario, por ejemplo, cambiar grupo | `usermod -aG sudo juan` |
+| `gpasswd`  | Agrega un usuario a un grupo                | `gpasswd -a juan docker`   |
+| `groupmod` | Modifica el nombre de un grupo              | `groupmod -n devs desarrolladores` |
 
 ---
 
