@@ -1,6 +1,4 @@
-# Resumen-Sistemas
-
-### **Resumen Completo de Comandos y Conceptos de Linux**
+## **Resumen Completo de Comandos y Conceptos de Linux**
 
 #### **1. Gestión de Archivos y Directorios**
 - **`pwd`**: Muestra la ruta absoluta del directorio actual.
